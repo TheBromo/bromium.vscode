@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+<style>:root {--ctp-rosewater: #f5e0dc;--ctp-flamingo: #d4d4d5;--ctp-pink: #c397d8;--ctp-mauve: #c397d8;--ctp-red: #e87979;--ctp-maroon: #e87979;--ctp-peach: #f0a988;--ctp-yellow: #e5d487;--ctp-green: #37d99e;--ctp-teal: #37d99e;--ctp-sky: #5fb0fc;--ctp-sapphire: #5fb0fc;--ctp-blue: #5fb0fc;--ctp-lavender: #c397d8;--ctp-text: #d4d4d5;--ctp-overlay1: #45484c;}</style>
+    <circle cx="50" cy="50" r="47.5" fill="none" stroke="var(--ctp-text)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.00009" paint-order="fill markers stroke"/>
+    <circle cx="50" cy="50" r="28.854" fill="none" stroke="var(--ctp-text)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.00009" paint-order="fill markers stroke"/>
+    <path fill="none" stroke="var(--ctp-text)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.00009" d="M29.802 69.95 69.95 29.802M69.95 69.95 29.802 29.802" paint-order="fill markers stroke"/>
+</svg>

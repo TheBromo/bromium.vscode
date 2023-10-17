@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+<style>:root {--ctp-rosewater: #f5e0dc;--ctp-flamingo: #d4d4d5;--ctp-pink: #c397d8;--ctp-mauve: #c397d8;--ctp-red: #e87979;--ctp-maroon: #e87979;--ctp-peach: #f0a988;--ctp-yellow: #e5d487;--ctp-green: #37d99e;--ctp-teal: #37d99e;--ctp-sky: #5fb0fc;--ctp-sapphire: #5fb0fc;--ctp-blue: #5fb0fc;--ctp-lavender: #c397d8;--ctp-text: #d4d4d5;--ctp-overlay1: #45484c;}</style>
+    <path fill="none" stroke="var(--ctp-green)" stroke-width="5" d="M2.568 14.017c0-3.975 3.515-7.197 7.85-7.197h31.404l8.505 7.851h39.254c4.336 0 7.851 3.222 7.851 7.197l-.654 64.115c0 3.975-3.515 7.197-7.85 7.197h-78.51c-4.335 0-7.85-3.222-7.85-7.197z" clip-rule="evenodd"/>
+    <path fill="none" stroke="var(--ctp-green)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" d="M60.162 41.987v33.875M39.837 41.987v33.875M80.39 41.987v33.875M19.512 41.987v33.875m0 0h60.976M19.512 58.925h60.976M19.512 41.987h60.976" paint-order="fill markers stroke"/>
+</svg>

@@ -1,0 +1,15 @@
+.github/
+.vscode/
+assets/
+template/
+node_modules/
+scripts/
+src/
+
+todo.md
+*.vsix
+.editorconfig
+.eslintrc
+.gitignore
+yarn.lock
+tsconfig.json

@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+<style>:root {--ctp-rosewater: #f5e0dc;--ctp-flamingo: #d4d4d5;--ctp-pink: #c397d8;--ctp-mauve: #c397d8;--ctp-red: #e87979;--ctp-maroon: #e87979;--ctp-peach: #f0a988;--ctp-yellow: #e5d487;--ctp-green: #37d99e;--ctp-teal: #37d99e;--ctp-sky: #5fb0fc;--ctp-sapphire: #5fb0fc;--ctp-blue: #5fb0fc;--ctp-lavender: #c397d8;--ctp-text: #d4d4d5;--ctp-overlay1: #45484c;}</style>
+    <path fill="none" stroke="var(--ctp-blue)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" d="M3.115 2.93 31.18 5.623 63.932 97.07h-28.05ZM70.15 5.623 96.886 2.93 63.932 97.07l-13.6-39.148Z" paint-order="fill markers stroke"/>
+</svg>

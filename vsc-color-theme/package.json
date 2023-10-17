@@ -1,0 +1,39 @@
+{
+  "name": "bromium",
+  "displayName": "Bromium",
+  "description": "Radioactive color theme inspired by Radium from NvChad (https://github.com/NvChad/base46)",
+  "version": "0.1.4",
+  "author": "TheBromo",
+  "keywords": [
+    "bromium",
+    "theme",
+    "neon",
+    "atomic",
+    "vscode",
+    "vscode-theme",
+    "vscode-icons",
+    "vscode-extension"
+  ],
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "publisher": "TheBromo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheBromo/bromium"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "bromium",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bromium-color-theme.json"
+      }
+    ]
+  }
+}

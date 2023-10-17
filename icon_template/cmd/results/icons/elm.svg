@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+<style>:root {--ctp-rosewater: #f5e0dc;--ctp-flamingo: #d4d4d5;--ctp-pink: #c397d8;--ctp-mauve: #c397d8;--ctp-red: #e87979;--ctp-maroon: #e87979;--ctp-peach: #f0a988;--ctp-yellow: #e5d487;--ctp-green: #37d99e;--ctp-teal: #37d99e;--ctp-sky: #5fb0fc;--ctp-sapphire: #5fb0fc;--ctp-blue: #5fb0fc;--ctp-lavender: #c397d8;--ctp-text: #d4d4d5;--ctp-overlay1: #45484c;}</style>
+    <rect width="94.356" height="94.356" x="2.822" y="2.822" fill="none" stroke="var(--ctp-blue)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" rx="7.902" ry="7.902"/>
+    <path fill="none" stroke="var(--ctp-blue)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" d="m6.16 6.133 88.174 87.85M50.663 2.991 96.711 49.69"/>
+    <path fill="none" stroke="var(--ctp-blue)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" d="m74.29 72.11 21.954-21.954"/>
+    <path fill="var(--ctp-red)" stroke="var(--ctp-blue)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" d="M25.399 25.088h45.465"/>
+    <path fill="var(--ctp-red)" stroke="var(--ctp-blue)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" d="m5.891 94.31 66.165-66.49"/>
+</svg>

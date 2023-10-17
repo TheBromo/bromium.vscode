@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+<style>:root {--ctp-rosewater: #f5e0dc;--ctp-flamingo: #d4d4d5;--ctp-pink: #c397d8;--ctp-mauve: #c397d8;--ctp-red: #e87979;--ctp-maroon: #e87979;--ctp-peach: #f0a988;--ctp-yellow: #e5d487;--ctp-green: #37d99e;--ctp-teal: #37d99e;--ctp-sky: #5fb0fc;--ctp-sapphire: #5fb0fc;--ctp-blue: #5fb0fc;--ctp-lavender: #c397d8;--ctp-text: #d4d4d5;--ctp-overlay1: #45484c;}</style>
+    <path fill="none" stroke="var(--ctp-text)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" d="M43.668 97.473H8.746c-2.797 0-5.934-3.137-5.934-5.934V8.46c0-2.797 3.137-5.934 5.934-5.934h71.21c2.797 0 5.934 3.137 5.934 5.934v49.844" paint-order="fill markers stroke"/>
+    <path fill="none" stroke="var(--ctp-text)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" d="M20.987 28.262h43.572M20.589 48.755h23.477" paint-order="fill markers stroke"/>
+    <path fill="none" stroke="var(--ctp-green)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" d="m56.401 84.369 12.535 12.534 28.252-28.252" paint-order="fill markers stroke"/>
+</svg>

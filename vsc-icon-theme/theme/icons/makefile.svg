@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+<style>:root {--ctp-rosewater: #f5e0dc;--ctp-flamingo: #d4d4d5;--ctp-pink: #c397d8;--ctp-mauve: #c397d8;--ctp-red: #e87979;--ctp-maroon: #e87979;--ctp-peach: #f0a988;--ctp-yellow: #e5d487;--ctp-green: #37d99e;--ctp-teal: #37d99e;--ctp-sky: #5fb0fc;--ctp-sapphire: #5fb0fc;--ctp-blue: #5fb0fc;--ctp-lavender: #c397d8;--ctp-text: #d4d4d5;--ctp-overlay1: #45484c;}</style>
+    <path fill="none" stroke="var(--ctp-peach)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" d="M62.644 49.808 20.67 93.496c-4.098 4.266-10.715 4.266-14.814 0v0c-4.094-4.256-4.094-11.163 0-15.42L47.83 34.39"/>
+    <path fill="none" stroke="var(--ctp-text)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" d="m91.827 48.267-6.173-6.425c-2.962-3.084-4.592-7.196-4.592-11.564v-4.42L67.631 11.774a27.455 28.577 0 0 0-19.455-8.43h-15.16L37.56 7.56a30.516 31.763 0 0 1 10.27 23.745v8.018l9.877 10.28h12.196l11.16 9.817m-5.379 5.818 21.535-22.463"/>
+</svg>

@@ -1,0 +1,14 @@
+# https://taskfile.dev
+
+version: '3'
+
+
+tasks:
+  icon:
+    dir: "./vsc-icon-theme"
+    cmds:
+      - vsce package
+  theme:
+    dir: "./vsc-color-theme"
+    cmds:
+      - vsce package
